@@ -1,0 +1,19 @@
+#sidebar-v2,.lead-connector{background-color:#111 !important;}
+.sidebar-v2-agency #sidebar-v2 #backButtonv2{background-color:#00D0DA !important;}
+a.active span{color:#00D0DA !important;}
+.hl_header--agency,.hl_header{background-color:#111 !important;}
+#navigation-btn,n-button,.n-button--primary-type,.n-button--medium-type{background-color:#00D0DA !important;}
+#sidebar-v2 div div nav a{border-radius:0;}
+#sidebar-v2 div div nav a:hover span{color:#00D0DA !important;text-decoration: underline !important;}
+.sidebar-v2-agency #sidebar-v2 .hl_nav-header-without-footer nav a.active, .sidebar-v2-agency #sidebar-v2 .hl_nav-header-without-footer nav a:hover{background:#333333AA !important;}
+.sidebar-v2-location #sidebar-v2 .hl_nav-header nav a:hover{background:#FFFFFF44 !important;}
+.hl_v2-location_switcher{background:#000 !important;}
+#location-list-containrer a{color: white;}
+#location-list-containrer{background: #333 !important;color: white !important;}
+.relative.rounded-md.shadow-sm.w-full.search-area.text-sm input {background: #444 !important;color: white !important;}
+*,h1,h2,h3,h4,p,label{font-family:'Lato',Helvetica;}
+.topmenu-nav a span,.topmenu-nav a,.topmenu-navtitle{color:white !important;}
+.topmenu-nav a {color: white !important;}
+a.topmenu-navitem span.flex.items-center{color: white !important;}
+.topmenu-nav.active span{color:#00D0DA !important;}
+.sidebar-v2-location .hl_header .topmenu-nav .topmenu-navitem,.sidebar-v2-location .hl_header .topmenu-nav .topmenu-navtitle,.topmenu-navtitle,.lead-connector #sidebar-v2 a.topmenu-navitem span{color: white !important;}
